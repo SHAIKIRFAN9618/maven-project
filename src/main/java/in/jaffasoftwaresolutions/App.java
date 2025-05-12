@@ -1,7 +1,7 @@
 package in.jaffasoftwaresolutions;
 
 /**
- * Hello world!
+ * Hello jaffa!
  */
 public class App {
     public static void main(String[] args) {
